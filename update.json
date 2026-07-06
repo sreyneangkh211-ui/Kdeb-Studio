@@ -1,5 +1,5 @@
 {
     "latest_version": "V1.0.1 Pro",
-    "download_url": "https://github.com/sreyneangkh211-ui/kdeb-studio/releases/download/v1.0.1/Patch.Update.1.0.1.exe",
-    "release_notes": "- Bug Fixed: All Project's tabs become the same video after generate audio finished"
+    "download_url": "https://github.com/sreyneangkh211-ui/Kdeb-Studio/releases/download/v1.0.1/Patch.Update.1.0.1.exe",
+    "release_notes": "- ដោះស្រាយបញ្ហាគាំងស្ទះកម្មវិធីពេលបើកដំណើរការដំបូង (Fixed startup freeze)\n- ដោះស្រាយការកកស្ទះពេលប្តូរ Tab ក្នុង Dubber Studio\n- រៀបចំកែសម្រួលប្លង់ Title Bar និងប៊ូតុង Version ឱ្យមានរបៀបរៀបរយ"
 }
