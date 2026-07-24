@@ -1,5 +1,5 @@
 {
-  "latest_version": "V1.0.2 Pro",
-  "download_url": "https://github.com/sreyneangkh211-ui/Kdeb-Studio/releases/download/v1.0.2/Patch.Update.1.0.2.exe",
-  "release_notes": "- ដោះស្រាយបញ្ហាគាំងកម្មវិធីពេលបើកដំណើរការដំបូង (Fixed startup freeze)\n- ដោះស្រាយការកែតម្រូវ Tab ក្នុង Dubber Studio\n- រៀបចំកែសម្រួល Title Bar និងប៊ូតុង Version ឱ្យមានរបៀបរៀបរយ\n- បន្ថែមមុខងារ Gemini API (Real Time)\n- បន្ថែម Animation Effect មើលទៅកាន់តែស្អាតជាងមុន\n- ឡើងមុខងារមួយចំនួនផ្សេងៗទៀត"
+  "latest_version": "V1.0.5 Pro",
+  "download_url": "https://github.com/sreyneangkh211-ui/Kdeb-Studio/releases/download/v1.0.5/Patch.Update.1.0.5.exe",
+  "release_notes": "- បន្ថែមមុខងារថ្មីៗ និងដោះស្រាយបញ្ហាមួយចំនួន (Added new features and bug fixes)"
 }
